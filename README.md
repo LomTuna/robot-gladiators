@@ -1,1 +1,3 @@
-# robot-gladiators
+# robot-gladiators 
+
+*Created to focus on JS*
